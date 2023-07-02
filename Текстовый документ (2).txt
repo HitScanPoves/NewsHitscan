@@ -1,9 +1,7 @@
 Updated 02.07.2023
-New interface
-add emotins spammer
-Fixed anti-spread
-Semi-updated Prediction in psilent
-add rain in the Menu
-fixed omni-sprint on wounded 
+fixed heli aim
+add indicator antiaim
+fixed raid esp
+upgraded prediction for flying 
 fixed some bugs
 fixed some crashes
