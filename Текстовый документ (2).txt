@@ -2,6 +2,7 @@ Updated 01.07.2023
 fixed heli aim
 add indicator antiaim
 fixed raid esp
+add anti-saving
 upgraded prediction for flying 
 fixed some bugs
 fixed some crashes
