@@ -1,4 +1,4 @@
-Updated 02.07.2023
+Updated 01.07.2023
 fixed heli aim
 add indicator antiaim
 fixed raid esp
